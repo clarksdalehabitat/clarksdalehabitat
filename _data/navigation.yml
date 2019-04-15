@@ -1,0 +1,47 @@
+#
+#   Navigation to the left › side: left
+#
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Our Mission"
+  url: "/mission/"
+  side: left
+  dropdown:
+  - title: "Sweat Equity"
+    url: "/sweatequity/"
+  # - title: "Dropdown Menu 2"
+  #   url: "#"
+  # - title: "Dropdown Menu 3"
+  #   url: "#"
+
+- title: "Volunteer"
+  url: "/volunteer/"
+  side: left
+
+# - title: News
+#   url: "/news/"
+#   side: left
+#   dropdown:
+#   - title: "Archive"
+#     url: "/news/archive/"
+
+#
+#   Navigation to the right › side: right
+#
+- title: "About"
+  url: "/about/"
+  side: right
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
+
+- title: "Donate"
+  url: "https://donorbox.org/save-clarksdale-habitat"
+  side: right
