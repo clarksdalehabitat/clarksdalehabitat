@@ -34,14 +34,3 @@ Highlights of the Uni week included a potluck at Kings Temple Missionary Baptist
 {: style="text-align: center;"}
 
 Immediately following that wonderful week, I was off to NYC, thereby nullifying one of the two longest-standing goals for my life: to never play golf and to never re-visit NYC (last visit:1972).  But I’ll save that for another post.
-
- [1]: #
- [2]: #
- [3]: #
- [4]: #
- [5]: #
- [6]: #
- [7]: #
- [8]: #
- [9]: #
- [10]: #
