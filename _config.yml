@@ -41,7 +41,8 @@ urlimg: 'http://clarksdalehabitat.org/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo_white.png"
+logo: "logo_1x.svg"
+logo_big: "logo_1.5x.svg"
 
 
 # Paginates all X entries
