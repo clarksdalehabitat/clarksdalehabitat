@@ -20,9 +20,9 @@
   url: "/volunteer/"
   side: left
 
-# - title: News
-#   url: "/news/"
-#   side: left
+- title: News
+  url: "/news/"
+  side: left
 #   dropdown:
 #   - title: "Archive"
 #     url: "/news/archive/"
