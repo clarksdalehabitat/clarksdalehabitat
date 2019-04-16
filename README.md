@@ -4,4 +4,4 @@ This is the git repository for the Clarksdale Area Habitat for Humanity website 
 
 Built using the [Feeling Responsive](http://phlow.github.io/feeling-responsive/) jekyll theme.
 
-For technical questions about the website, please contact (mailto:webmaster@clarksdalehabitat.org)
+For technical questions about the website you can reach me at [webmaster@clarksdalehabitat.org](mailto:webmaster@clarksdalehabitat.org)
