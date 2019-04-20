@@ -3,8 +3,8 @@ layout: page
 #
 # Content
 #
-subheadline: "Uni High Habitat Trip"
-title: "March Update"
+subheadline: "3/1/2019"
+title: "Uni High Habitat Trip"
 teaser: "My desperate plea for help in February has resulted in an outpouring of support that has genuinely encouraged me.  The need remains critical, but we are certainly not giving up.  And, in the meantime, we had a great time with out first volunteer group of the year (and my tenure) as my former employer, Uni High, sent a crew to the Delta for the 23rd straight year."
 categories:
   - news
@@ -19,7 +19,9 @@ image:
   homepage: ""
   caption: ""
   url: ""
+author: bill
 ---
+My desperate plea for help in February has resulted in an outpouring of support that has genuinely encouraged me.  The need remains critical, but we are certainly not giving up.  And, in the meantime, we had a great time with out first volunteer group of the year (and my tenure) as my former employer, Uni High, sent a crew to the Delta for the 23rd straight year.
 
 The weather for the week was abominable—rainy and cold for most of the time.  That, however, did not serve to dampen the spirits of the volunteers in the slightest, as they demolished a room in need of repair from a leaky roof (damaged by a falling limb, not by shoddy Habitat workmanship!), cleaned and painted the house being refurbished on Bolivar St., and hung all the drywall available in the new house on Edwards St.  In addition, they volunteered at the Care Station, at Griot, and at Spring, and received the usual heartfelt gratitude and accolades for their uncomplaining and competent service.
 

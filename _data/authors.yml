@@ -5,16 +5,23 @@
 # 3. Change default post/page authors in config.yml
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
-bill: # replace this with your info
+bill:
   name: "Bill Sutton"
   siterole: "Chief of Operations"
   uri:
   email: "info@clarksdalehabitat.org"
   twitter:
 
-isaac: # replace this with your info
+isaac:
   name: "Isaac Freund"
   siterole: "Webmaster"
   uri:
   email: "webmaster@clarksdalehabitat.org"
+  twitter:
+
+chris:
+  name: "Chris O’Hea"
+  siterole: "Board Member"
+  uri:
+  email:
   twitter:
