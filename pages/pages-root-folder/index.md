@@ -31,6 +31,8 @@ permalink: /index.html
 
 ## Welcome to Our New Website!
 ****
+{% include alert success='Please vote for Clarksdale as the <a href="https://www.10best.com/awards/travel/best-historic-small-town/">USA Today Best Historic Small Town!</a>' %}
+****
 Thanks to the generosity and technical wizardry (at least to my Neanderthalic eyes) of Isaac Freund, we now have a forum to inform, enlighten, and encourage each other, as we pursue CAHFH’s vision for partnering with local folks and outside volunteers in addressing problems with substandard housing and deeper issues of racial reconciliation in the Mississippi Delta.  We would like for this website to feature offerings from all of our constituents: homeowners, board members, donors, volunteers, and other parties willing to invest in the CAHFH mission.
 
 Eventually, we will be including pictures, donor information, and opportunities for service, as we (Isaac) has the chance to continue his fine work.  Please send any contributions to or suggestions for the website to my email (<mailto:bill@clarksdalehabitat.org>) so we can consider how to best include them.
@@ -38,7 +40,6 @@ Eventually, we will be including pictures, donor information, and opportunities 
 Bill Sutton
 
 CAHFH Chief of Operations
-
 
 <!-- <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
