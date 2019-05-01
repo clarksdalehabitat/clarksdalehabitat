@@ -19,7 +19,7 @@ widget3:
   text: 'Discover what you can do to help out.  Our volunteers play a major role in improving and transforming neighborhoods and lives.'
 
 callforaction:
-  url: https://donorbox.org/save-clarksdale-habitat
+  url: https://secure.givelively.org/donate/clarksdale-area-habitat-for-humanity-inc
   text: Donate Now ›
   style: alert
 permalink: /index.html
