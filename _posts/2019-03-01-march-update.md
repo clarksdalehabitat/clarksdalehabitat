@@ -14,11 +14,11 @@ categories:
 # Styling
 #
 image:
-  header: ""
+  header:
   thumb: "unikids-thumb.jpg"
-  homepage: ""
-  caption: ""
-  url: ""
+  homepage:
+  caption:
+  url:
 author: bill
 ---
 My desperate plea for help in February has resulted in an outpouring of support that has genuinely encouraged me.  The need remains critical, but we are certainly not giving up.  And, in the meantime, we had a great time with out first volunteer group of the year (and my tenure) as my former employer, Uni High, sent a crew to the Delta for the 23rd straight year.
@@ -31,7 +31,7 @@ The weather for the week was abominable—rainy and cold for most of the time.  
 
 Highlights of the Uni week included a potluck at Kings Temple Missionary Baptist Church with Habitat homeowners and board members, kids from Griot, and the incredibly gracious members of Kings Temple; an evening with Spring Initiative and Urbana High School volunteers at the always hospitable First United Methodist Church; and a number of inspiring visits with Pastor JJ Jackson, a longstanding friend of the Uni High groups.  Also contributing mightily to the success of the week were former Uni teacher Janet Morford who drove over from TX and Uni grad Fiona Weingartner (class of 2011) who swam over from Hawaii (inside joke).
 
-![]({{ site.urlimg }}potluck.png)
+![]({{ site.urlimg }}potluck.jpeg)
 *Potluck at Kings Temple*
 {: style="text-align: center;"}
 

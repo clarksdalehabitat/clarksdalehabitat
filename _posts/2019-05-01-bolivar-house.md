@@ -10,11 +10,11 @@ categories:
   - news
 author: bill
 image:
-  header: ""
+  header:
   thumb: "painting_siding.jpeg"
-  homepage: ""
-  caption: ""
-  url: ""
+  homepage: "painting_siding.jpeg"
+  caption:
+  url:
 ---
 In January, CAHFH was forced to foreclose on a property.  It was the first time in years that the organization had had to take such a drastic step, and those events are always tragic—obviously for the foreclosed-upon, who undoubtedly need no further trauma in their lives, but also for the entire organization.  Nobody gets into Habitat work so they can come down on the disadvantaged and any such action is just wretched.  This was no different, and the fact that it was my first official act as affiliate coordinator only made it worse for me.
 
