@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 header:
-  image_fullwidth: header_faded.png
+  image_fullwidth: header_faded.jpg
 widget1:
   title: "Our Affiliate"
   url: '/about/'
@@ -30,8 +30,6 @@ permalink: /index.html
 ---
 
 ## Welcome to Our New Website!
-****
-{% include alert success='Please vote for Clarksdale as the <a href="https://www.10best.com/awards/travel/best-historic-small-town/">USA Today Best Historic Small Town!</a>' %}
 ****
 Thanks to the generosity and technical wizardry (at least to my Neanderthalic eyes) of Isaac Freund, we now have a forum to inform, enlighten, and encourage each other, as we pursue CAHFH’s vision for partnering with local folks and outside volunteers in addressing problems with substandard housing and deeper issues of racial reconciliation in the Mississippi Delta.  We would like for this website to feature offerings from all of our constituents: homeowners, board members, donors, volunteers, and other parties willing to invest in the CAHFH mission.
 
