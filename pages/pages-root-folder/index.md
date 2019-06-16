@@ -19,14 +19,12 @@ widget3:
   text: 'Discover what you can do to help out.  Our volunteers play a major role in improving and transforming neighborhoods and lives.'
 
 callforaction:
-  url: https://secure.givelively.org/donate/clarksdale-area-habitat-for-humanity-inc
-  text: Donate Now ›
+  url: https://secure.givelively.org/donate/clarksdale-area-habitat-for-humanity-inc/jeff-brown-1
+  text: Donate Now and Have Your Donation Matched! ›
   style: alert
 permalink: /index.html
-<!-- donation_text: |
-  CAHFH is in a financial hole for a variety of reasons, but the bottom line is that we are on probation and in danger of being de-affiliated.  The new board and affiliate coordinator are implementing new systems that will allow us to become a healthy, properly functioning, and self-sustaining organization once again, but in the meantime, we are desperate!  We need immediate and significant help so we can continue to serve the people who need it--both the disadvantaged who deserve decent housing, as well as the privileged who benefit from serving.
-
-  We are a 501(c)(3) charitable organization, EIN 64-0745121. All the contributions are tax deductible. No goods or services will be provided in exchange for the contribution. -->
+donation_text: |
+  Jeff Brown is generously matching all donations up to $5000 dollar for dollar. Donate now to his campaign and have your donation matched!
 ---
 
 ## Welcome to Our New Website!
