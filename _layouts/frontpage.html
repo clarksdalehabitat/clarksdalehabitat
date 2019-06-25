@@ -21,6 +21,12 @@ format: blog-index
     {{ content }}
 </div><!-- /.row -->
 
+
+
+<div class="row">
+    {{ page.donation_text }}
+</div><!-- /.row -->
+
 {% comment %}
 *
 * First check, if there is a call for action-button
@@ -35,11 +41,10 @@ format: blog-index
     <div class="row t60 b60">
         <div class="small-12 text-center columns">
             <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ site.baseurl }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
-            <br/>
-            {{ page.donation_text }}
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
 {% endif %}
+
 
 
 {% comment %}
@@ -62,7 +67,6 @@ format: blog-index
 		{% include _frontpage-widget.html widget=page.widget3 %}
 	{% endif %}
 </div><!-- /.row -->
-
 
 
 
