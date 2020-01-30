@@ -70,12 +70,13 @@ exclude:
     - README.md
     - INSTALL.md
     - vendor
+    - docker_build.sh
 
 kramdown:
   input: GFM
   hard_wrap: false
 
-remote_theme: "clarksdalehabitat/feeling-responsive@bare-bones-version"
+remote_theme: "clarksdalehabitat/feeling-responsive@master"
 
 # The language setting is used in /includes/header.html for html-settings
 language: "en"
