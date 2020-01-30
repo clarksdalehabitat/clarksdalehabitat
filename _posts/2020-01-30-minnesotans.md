@@ -10,7 +10,7 @@ teaser: |
     On Saturday, November 2<sup>nd</sup>, 2019, a group of six left Stillwater to travel to Clarksdale, MS, to spend a week working on a Habitat for Humanity home.  The group consisted of Jenny Powell, Peggy Peterson, Tom Weber, Carol Weber (all St. Paul Lutheran members), and two friends of SPLC, CAHFH Board member Marlay Smith from Stillwater and Christa Scheider from Duluth.
 categories:
   - news
-author: bill
+author: tom_weber
 image:
   header:
   thumb: /group.jpeg
