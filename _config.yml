@@ -69,12 +69,13 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
+    - vendor
 
 kramdown:
   input: GFM
   hard_wrap: false
 
-remote_theme: "Phlow/feeling-responsive@bare-bones-version"
+remote_theme: "clarksdalehabitat/feeling-responsive@bare-bones-version"
 
 # The language setting is used in /includes/header.html for html-settings
 language: "en"
