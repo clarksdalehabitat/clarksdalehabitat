@@ -18,7 +18,7 @@ author: bill
 image:
   header:
   thumb: /posts/uni-alums-dream-team/group.png
-  homepage: /group.jpeg
+  homepage: /posts/uni-alums-dream-team/group.png
   caption:
   url:
 ---
